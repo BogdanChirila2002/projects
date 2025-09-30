@@ -1,0 +1,87 @@
+[
+    {
+        "make": "Dacia",
+        "model": "Logan",
+        "year": 2020,
+        "price_per_day": 100,
+        "image_url": "static/images/dacia_logan.jpg"
+    },
+    {
+        "make": "Renault",
+        "model": "Clio",
+        "year": 2021,
+        "price_per_day": 125,
+        "image_url": "/static/images/renault_clio.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "Corolla",
+        "year": 2019,
+        "price_per_day": 160,
+        "image_url": "/static/images/toyota_corolla.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Focus",
+        "year": 2022,
+        "price_per_day": 130,
+        "image_url": "/static/images/ford_focus.jpg"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Golf",
+        "year": 2020,
+        "price_per_day": 135,
+        "image_url": "/static/images/volkswagen_golf.jpg"
+    },
+    {
+        "make": "BMW",
+        "model": "Series 3",
+        "year": 2023,
+        "price_per_day": 175,
+        "image_url": "/static/images/bmw_series 3.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "year": 2023,
+        "price_per_day": 200,
+        "image_url": "/static/images/mercedes-benz_c-class.jpg"
+    },
+    {
+        "make": "Audi",
+        "model": "A4",
+        "year": 2022,
+        "price_per_day": 180,
+        "image_url": "/static/images/audi_a4.jpg"
+    },
+    {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2021,
+        "price_per_day": 150,
+        "image_url": "/static/images/honda_civic.jpg"
+    },
+    {
+        "make": "Hyundai",
+        "model": "Elantra",
+        "year": 2020,
+        "price_per_day": 155,
+        "image_url": "/static/images/hyundai_elantra.jpg"
+    },
+    {
+        "make": "Nissan",
+        "model": "GTR",
+        "year": 2024,
+        "price_per_day": 300,
+        "image_url": "/static/images/nissan_gtr.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "G-Class",
+        "year": 2024,
+        "price_per_day": 270,
+        "image_url": "/static/images/mercedes-benz_g-class.jpg"
+    },
+} 
+]
